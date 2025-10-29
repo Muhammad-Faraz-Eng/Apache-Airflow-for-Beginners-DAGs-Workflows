@@ -1,0 +1,6 @@
+# Ignore Airflow logs
+Airflow With Python Operator/logs/
+**/__pycache__/
+*.pyc
+*.log
+.DS_Store
